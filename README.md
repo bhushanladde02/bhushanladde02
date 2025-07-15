@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bhushan Ladde
 
-🎯 **Senior Software Engineer** | 💡 Backend Developer | ☁️ Cloud & ETL Specialist
+🎯 **Senior Software Engineer** | 💡 Backend Developer | ☁️ Cloud & ETL Specialist | AI Engineer
 
 I bring over 8 years of experience building scalable backend systems, cloud-native applications, and robust data pipelines. My work spans across companies like **Nielsen**, **Oracle**, and **BARCO**, focusing on distributed systems, performance optimization, and cloud infrastructure.
 
