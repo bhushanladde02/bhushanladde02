@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Bhushan Ladde
 
-<!--
-**bhushanladde02/bhushanladde02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Senior Software Engineer** | 💡 Backend Developer | ☁️ Cloud & ETL Specialist
 
-Here are some ideas to get you started:
+I bring over 8 years of experience building scalable backend systems, cloud-native applications, and robust data pipelines. My work spans across companies like **Nielsen**, **Oracle**, and **BARCO**, focusing on distributed systems, performance optimization, and cloud infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack & Tools
+
+- **Languages:** Java, Python, C++, SQL
+- **Cloud:** AWS (EC2, S3, Lambda), GCP
+- **Data Engineering:** Airflow, Kafka, Snowflake, Redshift, PostgreSQL
+- **DevOps:** Docker, Kubernetes, GitLab CI/CD
+- **Frameworks:** Spring Boot, Hibernate, Flask
+- **AI Tech Stack:**  Google Gemini 2.5, ChatGPT 4, ClaudeCode, AI Agents.
+
+---
+
+## 💼 Work Highlights
+
+- 🚀 Designed and deployed large-scale ETL pipelines processing terabytes of data daily.
+- 🔄 Migrated legacy systems to microservices architecture, improving performance by 40%.
+- 📊 Partnered with analysts and scientists to deliver analytics platforms in production.
+
+---
+
+## 📘 Recent Projects
+
+- 📦 **claude-Code** — Generate Web Summerizer Chrome Extension using the claude code setup.
+- 🧠 **AI Agent Toolkit (WIP)** — Exploring Java-based AI agents and LLM integration.
+- 🌐 **Open Source Contributions** — Improving data pipeline reliability in public repos.
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/bhushanladde/)
+- 📧 Email: bhushanladde02@gmail.com
