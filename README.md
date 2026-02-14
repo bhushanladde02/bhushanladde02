@@ -2,7 +2,7 @@
 
 🎯 **Senior Software Engineer** | 💡 Backend Developer | ☁️ Cloud & ETL Specialist | AI Engineer
 
-I bring over 10+ years of experience building scalable backend systems, cloud-native applications, and robust data pipelines. My work spans across companies like **Nielsen**, **Oracle**, and **BARCO**, focusing on distributed systems, performance optimization, and cloud infrastructure.
+I bring over 11+ years of experience building scalable backend systems, cloud-native applications, and robust data pipelines. My work spans across companies like **Nielsen**, **Oracle**, and **BARCO**, focusing on distributed systems, performance optimization, and cloud infrastructure.
 
 ---
 
