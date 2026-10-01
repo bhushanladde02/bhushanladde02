@@ -1,39 +1,33 @@
-# 👋 Hi, I'm Bhushan Ladde
+# Bhushan Ladde
 
-🎯 **Senior Software Engineer** | 💡 Backend Developer | ☁️ Cloud & ETL Specialist | AI Engineer
+Senior Software Engineer — Python data infrastructure, large-scale pipelines, Apache Airflow.
+11+ years building backend and data systems at Nielsen, BARCO and Oracle.
 
-I bring over 11+ years of experience building scalable backend systems, cloud-native applications, and robust data pipelines. My work spans across companies like **Nielsen**, **Oracle**, and **BARCO**, focusing on distributed systems, performance optimization, and cloud infrastructure.
+Currently open to senior data/backend engineering roles.
 
----
+## Projects
 
-## 🔧 Tech Stack & Tools
+**[touchpath](https://github.com/bhushanladde02/touchpath)** — Multi-touch attribution engine.
+Markov removal-effect and Shapley-value models alongside the usual heuristics, holdout
+incrementality testing, and a FastAPI dashboard. 69 tests, validated against synthetic
+data with known ground truth. *Python · DuckDB · FastAPI*
 
-- **Languages:** Java, Python, C++, SQL
-- **Cloud:** AWS (EC2, S3, Lambda), GCP
-- **Data Engineering:** Airflow, Kafka, Snowflake, Redshift, PostgreSQL
-- **DevOps:** Docker, Kubernetes, GitLab CI/CD
-- **Frameworks:** Spring Boot, Hibernate, Flask
-- **AI Tech Stack:**  Google Gemini 2.5, ChatGPT 4, ClaudeCode, AI Agents.
+**[Sharpen](https://sharpenscore.com)** — Track personal and professional AI usage, with
+monthly reports and a public AI profile. *Python · FastAPI · Postgres*
 
----
+**[Recovery Routes](https://recoveryroutes.org)** — Free consumer money-recovery service.
 
-## 💼 Work Highlights
+## What I work on
 
-- 🚀 Designed and deployed large-scale ETL pipelines processing terabytes of data daily.
-- 🔄 Migrated legacy systems to microservices architecture, improving performance by 40%.
-- 📊 Partnered with analysts and scientists to deliver analytics platforms in production.
+- Daily pipelines moving 100M+ records across multiple sources, orchestrated with Airflow
+- Data quality: validation, idempotent partition replacement, late-arriving data, backfills
+- Parquet on S3, OLAP serving layers, Kubernetes-based execution
 
----
+## Stack
 
-## 📘 Recent Projects
+Python · Java · SQL · Airflow · AWS (S3, EC2, Lambda) · Snowflake · DuckDB · Parquet ·
+PostgreSQL · Docker · Kubernetes · FastAPI
 
-- 📦 **claude-Code** — Generate Web Summerizer Chrome Extension using the claude code setup.
-- 🧠 **AI Agent Toolkit (WIP)** — Exploring Java-based AI agents and LLM integration.
-- 🌐 **Open Source Contributions** — Improving data pipeline reliability in public repos.
+## Contact
 
----
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/bhushanladde/)
-- 📧 Email: bhushanladde02@gmail.com
+[LinkedIn](https://www.linkedin.com/in/bhushanladde/) · bhushanladde02@gmail.com
