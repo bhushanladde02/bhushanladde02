@@ -15,7 +15,8 @@ data with known ground truth. *Python · DuckDB · FastAPI*
 **[Sharpen](https://sharpenscore.com)** — Track personal and professional AI usage, with
 monthly reports and a public AI profile. *Python · FastAPI · Postgres*
 
-**[Recovery Routes](https://recoveryroutes.org)** — Free consumer money-recovery service.
+**[Recovery Routes](https://github.com/bhushanladde02/recovery-routes)** — Free consumer
+money-recovery service. *In development.*
 
 ## What I work on
 
