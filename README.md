@@ -7,7 +7,7 @@ Currently open to senior data/backend engineering roles.
 
 ## Projects
 
-**[touchpath](https://github.com/bhushanladde02/touchpath)** — Multi-touch attribution engine.
+**[touchpath](https://touchpath.onrender.com/)** — Multi-touch attribution engine.
 Markov removal-effect and Shapley-value models alongside the usual heuristics, holdout
 incrementality testing, and a FastAPI dashboard. 69 tests, validated against synthetic
 data with known ground truth. *Python · DuckDB · FastAPI*
