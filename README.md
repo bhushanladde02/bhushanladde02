@@ -7,6 +7,8 @@ Currently open to senior data/backend engineering roles.
 
 ## Projects
 
+**[BotSpotter](https://botspotter-demo.onrender.com)** — Live map and counter of AI bots crawling the web. *Python · Stream Processing · Kafka · Redis · PostgreSQL · FastAPI · Docker · System Design · Data Privacy*
+
 **[touchpath](https://touchpath.onrender.com/)** — Multi-touch attribution engine.
 Markov removal-effect and Shapley-value models alongside the usual heuristics, holdout
 incrementality testing, and a FastAPI dashboard. 69 tests, validated against synthetic
