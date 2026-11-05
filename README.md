@@ -1,7 +1,7 @@
 # Bhushan Arun Ladde
 
 Senior Software Engineer — Python data infrastructure, large-scale pipelines, Apache Airflow.
-11+ years building backend and data systems at Nielsen, BARCO and Oracle.
+13+ years building backend and data systems at Nielsen, BARCO and Oracle.
 
 Currently open to senior data/backend engineering roles.
 
