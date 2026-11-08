@@ -22,7 +22,7 @@ monthly reports and a public AI profile. *Python · FastAPI · Postgres*
 - Java backend micro-services using spring boot.
 - Daily pipelines moving 100M+ records across multiple sources, orchestrated with Airflow.
 - Data quality: validation, idempotent partition replacement, late-arriving data, backfills.
-- Parquet on S3, OLAP serving layers, Kubernetes-based execution.
+- Parquet on S3, OLAP serving layers, Docker-Kubernetes-based execution.
 
 ## Stack
 
