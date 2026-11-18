@@ -19,7 +19,7 @@ monthly reports and a public AI profile. *Python · FastAPI · Postgres*
 
 ## What I work on
 
-- Java backend micro-services using spring boot.
+- Java backend micro-services using spring boot
 - Daily pipelines moving 100M+ records across multiple sources, orchestrated with Apache Airflow.
 - Data quality: validation, idempotent partition replacement, late-arriving data, backfills.
 - Parquet on S3, OLAP serving layers, Docker-Kubernetes-based execution.
